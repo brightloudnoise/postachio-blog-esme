@@ -100,7 +100,7 @@
             </ul>
             {% elif is_post %}
             <article itemscope itemtype="http://schema.org/Article" class="post">
-                <time class="time" datetime="{{ post.created_at }}"><span>Published by {{ site.author }}</span> <span>{{ post.created_at|format_date }}</span></time>
+                <time class="time" datetime="{{ post.created_at }}"><!--<span>Published by {{ site.author }}</span>--> <span>{{ post.created_at|format_date }}</span></time>
                 <section class="content">
                     <header>
                         <h2>{{ post.title }}</h2>
