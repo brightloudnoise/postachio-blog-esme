@@ -584,7 +584,7 @@ a {
   transition: all 0.2s ease-in-out;
 }
 a:hover {
-  color: #b7b7b7;
+  color: #000;
 }
 img {
   max-width: 100%;
@@ -1161,13 +1161,13 @@ img {
   color: #ffffff;
 }
 .post .content header h2 a:hover {
-  color: #111111;
+  color: #000;
 }
 .post .content a {
   color: #ca9ce7;
 }
 .post .content a:hover {
-  color: #16a085;
+  color: #000;
 }
 .post .content .post-content {
   -webkit-border-top-right-radius: 0;
@@ -1193,7 +1193,7 @@ img {
   color: #ca9ce7;
 }
 .post .content .read-more:hover {
-  color: #16a085;
+  color: #000;
 }
 .post .content .link-url {
   margin-bottom: 22px;
@@ -1213,7 +1213,7 @@ img {
   color: #ffffff;
 }
 .post .content .tags a:hover {
-  color: #2c3e50;
+  color: #000;
 }
 .post img {
   border-width: 3px;
@@ -1340,7 +1340,7 @@ img {
 }
 .pagination .post-prev:hover,
 .pagination .post-next:hover {
-  color: #16a085;
+  color: #000;
 }
 .pagination .post-prev {
   float: left;
