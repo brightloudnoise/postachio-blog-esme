@@ -71,7 +71,7 @@
                 {% for post in posts %}
                 <li>
                     <article itemscope itemtype="http://schema.org/Article">
-                        <time class="time" datetime="{{ post.created_at }}"><span>Published by {{ site.author }}</span> <span>{{ post.created_at|format_date }}</span></time>
+                        <time class="time" datetime="{{ post.created_at }}"><!--<span>Published by {{ site.author }}</span> --><span>{{ post.created_at|format_date }}</span></time>
                         <div class="bubble"></div>
                         <div class="label">
                             <div class="post-header">
