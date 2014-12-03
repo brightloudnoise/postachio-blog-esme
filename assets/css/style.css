@@ -1162,7 +1162,8 @@ img {
   color: #ffffff;
 }
 .post .content header h2 a:hover {
-  color: #95a5a6;
+  /*color: #95a5a6;*/
+  color: red;
 }
 .post .content a {
   color: #ca9ce7;
