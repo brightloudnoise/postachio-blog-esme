@@ -667,7 +667,7 @@ img {
   font-weight: 700;
 }
 .container > header #nav a:hover {
-  color: #16a085;
+  color: #121B30;
 }
 .container > header #nav a.active {
   color: #34495e;
@@ -692,7 +692,7 @@ img {
   font-size: 2rem;
 }
 .container > header .social-icons a:hover {
-  color: #16a085;
+  color: #121B30;
 }
 .container > header .social-icons a:first-child {
   margin-left: 0;
@@ -811,7 +811,7 @@ img {
   color: #FF7EA8;
 }
 .timeline > li .label a:hover {
-  color: #16a085;
+  color: #121B30;
 }
 .timeline > li .label .post-header,
 .timeline > li .label .post-content {
@@ -1167,7 +1167,7 @@ img {
   color: #FF7EA8;
 }
 .post .content a:hover {
-  color: #16a085;
+  color: #121B30;
 }
 .post .content .post-content {
   -webkit-border-top-right-radius: 0;
@@ -1193,7 +1193,7 @@ img {
   color: #FF7EA8;
 }
 .post .content .read-more:hover {
-  color: #16a085;
+  color: #121B30;
 }
 .post .content .link-url {
   margin-bottom: 22px;
@@ -1340,7 +1340,7 @@ img {
 }
 .pagination .post-prev:hover,
 .pagination .post-next:hover {
-  color: #16a085;
+  color: #121B30;
 }
 .pagination .post-prev {
   float: left;
