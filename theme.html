@@ -79,7 +79,7 @@
                             </div>
                             <div class="post-content">
                                 {% if post.content|striptags|wordcount > 0 %}
-                                <p>{{ post.content|striptags|truncate(500) }} <a href="{{ post.permalink }}">Read More</a></p>
+                                <p>{{ post.content|striptags|truncate(1500) }} <a href="{{ post.permalink }}">Read More</a></p>
                                 {% endif %}
                                 {% if post.tags %}
                                 <div class="tags">
